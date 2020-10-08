@@ -13,7 +13,11 @@ create: function(cols, vals, cb){
         cb(res);
     });
 },
-update: function(){
+update: function(colVals, condition, cb){
+    orm.updateOne("burgers", colVals, condition, function(res){
+        cb(res);
+
+    });
 
 }
 
