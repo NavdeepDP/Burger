@@ -4,7 +4,7 @@
 
 The link to the website repository: [Website Repo link](https://github.com/NavdeepDP/Burger)
 
-The link to deployed website [Website Link]()
+The link to deployed website [Website Link](https://eat-daa-burger-app.herokuapp.com/)
 
 
 ## Development Environment using 
@@ -14,10 +14,12 @@ The link to deployed website [Website Link]()
 
 Burger app allows user to create and devour burgers with a button click "Devour it". This app displays burgers in two sections:  not devoured and devoured.
 
-![Readme Image]()
+![Readme Image](./public/assets/img/burger-app.png)
 
 
 
+
+![Website Functionality](./public/assets/img/burger-app.gif)
 ## Installation
 
 - Code is developed using VS Code studio.
